@@ -7,7 +7,7 @@
 6. Wait for output: Server listening on port 3000
 7. Paste http://localhost:3000 to preferred browser
 8. Take a screenshot of the juice-shop homepage:
-![alt text](screenshot.png)
+![Juice Shop](screenshotofjuiceshop.png)
 9. Merge the new file into master branch with 
     git add output.md
     git commit -m "add output.md"
